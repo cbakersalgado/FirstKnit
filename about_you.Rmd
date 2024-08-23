@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Cienna Baker-Salgado"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I attended Highland Highschool and graduated 2021. English is one of my strongholds and math is one of my weak points, as I am better at reading and evaluating questions and text. I have always done the best in my art classes and my anatomy class. Art class was very fun and I was able to display my works in the halls. 
      
 
 
@@ -26,14 +26,16 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+ 
+ I have a Windows computer and my internet connection is better than my phone and home computer. I would give myself a 3 out of 10 skills wise though, as I never delved too far into working with files and am open to learn more.  
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+
+I would prefer to be called by Cienna. I do not mind if people call me CC, it is my nickname at home.   
    
  
 
@@ -44,7 +46,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+
+I am aiming at medical illustration and anatomy work. I am still looking for programs to suffice my plans and would like to at least get a bachelor's if I choose to change my mind since I am still fluctuating in certain career options.   
    
  
 
@@ -56,7 +59,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I have not been to different countries but I would like to visit Mexico since I have family out there. I have visited different states though, like South Carolina, Georgia, and will be going to Texas sometime next year. I only know a few people who are ex-military, but if I was to be drafted, I would look into the Marine Corps.     
   
 
 
@@ -69,16 +72,4 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
- 
-
-
-
-
-
-
-  
-
-
-
-
+I am taking Stats 115 to satisfy my general education however I am open to looking into 116 if necessary. I would like to maintain at least a B not just for my transcript, but for my own mathematical improvements and understanding of statistics.
